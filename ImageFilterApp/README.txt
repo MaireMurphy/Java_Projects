@@ -24,7 +24,11 @@ Features
 
 
 
- To execute the jar use> java -cp ./manager.jar ie.gmit.dip.Runner
+ To execute
+ -----------
+1. Download manager.jar
+2. Navigate to the folder that contains manager.jar using CMD.
+3. In the command prompt use: java -cp ./manager.jar ie.gmit.dip.Runner
 	
   		
 
