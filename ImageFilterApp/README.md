@@ -4,6 +4,8 @@
 *	                                                    *
 *************************************************************
 
+![image](https://user-images.githubusercontent.com/77215633/158015406-6fe8165c-fb9e-4c93-9a60-0c5b5084b817.png)
+
 Project Description
 -------------------
 Image filtering application that uses a 2D array called a convolution kernel to manipulate the image pixels to produce a filtered effect. The resulting filtered image is saved as Out.png and it's location is displayed on screen. The filtered image is also displayed to the user in a seperate pop up window. To proceed click the cmd prompt window to make it the active again and choose the next option. (Out.png is overwritten for each filter operation)
