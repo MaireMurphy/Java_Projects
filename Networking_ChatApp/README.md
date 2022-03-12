@@ -28,7 +28,8 @@ a ConcurrentHashMap. Then it listens for incoming messages from the client which
 other connected clients. Housekeeping is performed on ConcurrentHashMap to remove users who 
 are no longer connected.
 
-![image](https://user-images.githubusercontent.com/77215633/158016077-a6720b8c-3da6-42e9-a942-ba4f794a4c7e.png)
+![image](https://user-images.githubusercontent.com/77215633/158016229-3b7db6f4-f0a8-485d-abd4-55333dae5088.png)
+
 
 
 ChatClient: Enables a user to be created with a username. It establishes a socket connection with the 
@@ -36,10 +37,8 @@ server. It contains two threads; one for performing a listening task (for incomi
 connected user) and a chat task (to send chat messages to the server). It allows the user to exit using 
 ‘\q’.
 
-![image](https://user-images.githubusercontent.com/77215633/158016101-b815b639-b0c3-443a-bc32-c1a29a9f9c22.png)
+![image](https://user-images.githubusercontent.com/77215633/158016202-57d440d9-a698-4cb9-9078-0736e8a1dc85.png)
 
-
-![image](https://user-images.githubusercontent.com/77215633/158016123-16aec6ec-a560-4608-b434-6b4d99cefd3b.png)
 
 
 Both programs use Console Colours. Broadcast messages from the server are shown in purple.
