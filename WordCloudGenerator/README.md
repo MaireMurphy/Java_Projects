@@ -18,6 +18,7 @@ The word cloud generation involves the following steps: the source content is sc
 
 Finally, a PNG image is created using the list of frequently occuring words in a Word Cloud format.The most frequest occuring word is the largest and centered. Word size decreases as the application moves down the list. The image is automatically displayed to the user on screen when complete. The User is informed of the status and the file output location in the Console.
 
+![image](https://user-images.githubusercontent.com/77215633/158018533-1ebad21f-d84f-4778-815b-3b6ecf6466c4.png)
 
 Extras
 -------------------------
